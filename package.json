@@ -1,0 +1,15 @@
+{
+  "name": "toy-rx",
+  "version": "1.0.0",
+  "description": "A tiny implementation of RxJS that actually works, for learning",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Andre Staltz <staltz.com>",
+  "license": "MIT"
+}
