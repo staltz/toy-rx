@@ -97,7 +97,7 @@ class Subject extends Observable {
 }
 ```
 
-See? It fit easily in a README and you weren't scared of looking at it even though it's source code.
+See? It fit easily in a README and you weren't scared of looking at it even though it's source code. That was `index.js`.
 
 Where are all the operators? Well, here's `map` for instance:
 
